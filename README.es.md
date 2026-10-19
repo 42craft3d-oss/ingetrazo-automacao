@@ -1,10 +1,12 @@
 # Automatización para IngeTrazo
 
-Automatización cinemática por componente para IngeTrazo 0.5.7 o posterior con API de extensiones 2.
+Automatización cinemática por componente para IngeTrazo 0.5.8 o posterior con API de extensiones 2.
 
 Cada pieza puede tener varios bloques de movimiento. La vista previa se dibuja en el viewport sin guardar transforms animados en el modelo; **Detener** siempre restaura la posición inicial.
 
 > Idiomas: [Português](README.md) · [English](README.en.md) · [Español](README.es.md)
+
+![Portada del plugin Automatización](docs/media/automacao-cover.png)
 
 ![Demostración del plugin Automatización](docs/media/automacao.gif)
 

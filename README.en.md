@@ -1,10 +1,12 @@
 # Automation for IngeTrazo
 
-Kinematic component automation for IngeTrazo 0.5.7 or later with Extensions API 2.
+Kinematic component automation for IngeTrazo 0.5.8 or later with Extensions API 2.
 
 Each part can contain several motion blocks. The preview is drawn in the viewport without saving animated transforms to the model; **Stop** always restores the initial position.
 
 > Languages: [Português](README.md) · [English](README.en.md) · [Español](README.es.md)
+
+![Automation plugin cover](docs/media/automacao-cover.png)
 
 ![Automation plugin demo](docs/media/automacao.gif)
 
