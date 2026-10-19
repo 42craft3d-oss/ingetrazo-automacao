@@ -6,6 +6,8 @@ Cada peça pode ter vários blocos de movimento. A prévia é desenhada no viewp
 
 > Idiomas: [Português](README.md) · [English](README.en.md) · [Español](README.es.md)
 
+![Demonstração do plugin Automação](docs/media/automacao.gif)
+
 ## Destaques
 
 - Rotação em torno de X, Y, Z ou de um eixo livre definido por dois pontos.

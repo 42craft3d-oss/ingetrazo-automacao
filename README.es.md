@@ -6,6 +6,8 @@ Cada pieza puede tener varios bloques de movimiento. La vista previa se dibuja e
 
 > Idiomas: [Português](README.md) · [English](README.en.md) · [Español](README.es.md)
 
+![Demostración del plugin Automatización](docs/media/automacao.gif)
+
 ## Características
 
 - Rotación alrededor de X, Y, Z o de un eje libre definido por dos puntos.

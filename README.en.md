@@ -6,6 +6,8 @@ Each part can contain several motion blocks. The preview is drawn in the viewpor
 
 > Languages: [Português](README.md) · [English](README.en.md) · [Español](README.es.md)
 
+![Automation plugin demo](docs/media/automacao.gif)
+
 ## Highlights
 
 - Rotation around X, Y, Z, or a free axis defined by two points.
