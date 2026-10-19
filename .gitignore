@@ -1,0 +1,12 @@
+# Runtime and diagnostics
+automacao-debug.log
+*.log
+__pycache__/
+*.py[cod]
+
+# Local recovery files
+*.backup_*
+*.bak
+
+# Generated release artifacts
+*.zip

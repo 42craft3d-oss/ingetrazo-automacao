@@ -1,0 +1,22 @@
+# DRAFT ONLY. Submit only after the repository and v1.0.0 GitHub Release are public.
+
+id = "automacao"
+version = "1.0.0"
+author = "Daniel Wagner"
+author_url = "https://github.com/42craft3d-oss"
+license = "MIT"
+repository = "https://github.com/42craft3d-oss/ingetrazo-automacao"
+download = "https://github.com/42craft3d-oss/ingetrazo-automacao/releases/download/v1.0.0/ingetrazo-automacao-v1.0.0.zip"
+sha256 = "e2e3bb902d375d7d5015750134dae36806ee66d25353ae5c36bfa9c0e0f71beb"
+ingetrazo = "0.5.7"
+tags = ["productivity", "other"]
+
+[name]
+pt = "Automação"
+es = "Automatización"
+en = "Automation"
+
+[summary]
+pt = "Prévia de rotação e deslocamento linear por componente. Configure blocos, eixo X/Y/Z ou por dois pontos, velocidade, sentido, modo, repetição e delay; Play executa todas as peças salvas."
+es = "Vista previa de rotación y desplazamiento lineal por componente. Configure bloques, eje X/Y/Z o por dos puntos, velocidad, sentido, modo, repetición y retraso; Reproducir ejecuta todas las piezas guardadas."
+en = "Per-component rotation and linear-motion preview. Configure blocks, X/Y/Z or two-point axis, speed, direction, mode, repeat, and delay; Play runs every saved part."
